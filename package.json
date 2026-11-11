@@ -1,0 +1,19 @@
+{
+    "name": "peerprep",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "dependencies": {
+        "@supabase/ssr": "^0.12.7",
+        "@supabase/supabase-js": "^2.119.0",
+        "next": "14.2.15",
+        "pdf-lib": "^1.17.1",
+        "pdfjs-dist": "^3.11.174",
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1"
+    }
+}
